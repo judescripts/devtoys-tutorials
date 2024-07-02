@@ -1,0 +1,3 @@
+[submodule "flask-htmx"]
+	path = flask-htmx
+	url = https://github.com/judescripts/flask-htmx
